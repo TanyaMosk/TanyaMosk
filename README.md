@@ -1,5 +1,8 @@
+[![MasterHead](https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS")]
+
 ### Hi there 👋
 
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS">
 <!--
 **TanyaMosk/TanyaMosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
