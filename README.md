@@ -1,8 +1,8 @@
-[![MasterHead](https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS")]
+<!-- [![MasterHead](https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS")] -->
 
-### Hi there 👋
+### Hi there 👋  I`m Tanya Moskaliuk
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS">
+<!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS"> -->
 <!--
 **TanyaMosk/TanyaMosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
